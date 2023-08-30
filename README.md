@@ -6,6 +6,8 @@ If you are looking for a few ways to work with South African Post Codes, we have
 
 1. [MYSQL Import](https://github.com/raramuridesign-cc/South-African-Postal-Codes/blob/main/database/postcodes-za.sql)
 2. [CSV FILE](https://github.com/raramuridesign-cc/South-African-Postal-Codes/blob/main/database/postcodes-za.csv)
+3. [PHP Array](https://github.com/raramuridesign-cc/South-African-Postal-Codes/blob/main/database/app_postcodes_za.php)
+4. [JSON Data](https://github.com/raramuridesign-cc/South-African-Postal-Codes/blob/main/database/app_postcodes_za.json)
 
 ### Other Useful Links 
 
